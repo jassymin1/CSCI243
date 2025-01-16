@@ -1,1 +1,3 @@
-# CSCI243
+# README
+
+This is a readme file
